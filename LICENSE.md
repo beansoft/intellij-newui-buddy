@@ -90,21 +90,6 @@ To the fullest extent permitted by law, you agree to release, indemnify, and hol
 
 *Judicial Forum for Disputes.* Except to the extent applicable law provides otherwise, you and New UI Buddy agree that any judicial proceeding to resolve claims relating to this Agreement or the Services will be brought in the federal or state courts of Tianjin China, subject to the mandatory arbitration provisions below. Both you and New UI Buddy consent to venue and personal jurisdiction in such courts.
 
-**PLEASE READ THE FOLLOWING SECTIONS CAREFULLY! THEY MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT AND TO HAVE A JURY HEAR YOUR CLAIMS.**
-
-**U.S. RESIDENTS AGREE TO THE FOLLOWING MANDATORY ARBITRATION PROVISIONS:**
-
-*Agreement to Arbitrate.* You and New UI Buddy agree to resolve any claims relating to the Agreement or the Services through final and binding arbitration by a single arbitrator, except as set forth below. This includes disputes arising out of or relating to interpretation or application of this section, including its enforceability, revocability, or validity.
-
-*Arbitration Procedures.* Arbitration is a less formal procedure than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, and court review of an arbitration award is very limited. The American Arbitration Association (“**AAA**”) will administer the arbitration under its Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes. AAA’s rules are available at [www.adr.org](https://www.google.com/url?q=http://www.adr.org&sa=D&source=editors&ust=1626126207232000&usg=AOvVaw2bRsRea34hzv5gZqFK2o55). The arbitration will be held in the United States county where you live or work, Ohio, or another mutually agreed-upon location.
-
-*Arbitration Costs.* The AAA rules will govern payment of all arbitration fees. New UI Buddy will pay all arbitration fees for individual arbitration for claims less than $10,000 unless the arbitrator determines that the claim is frivolous. New UI Buddy will not seek its attorneys' fees and costs in arbitration unless the arbitrator determines that the claim is frivolous.
-
-*Opt-Out Procedure.* YOU CAN REJECT THIS AGREEMENT TO ARBITRATE (“**OPT-OUT**”) BY EMAILING US AT beansoft@126.com WITHIN 30 DAYS OF FIRST REGISTERING YOUR ACCOUNT AND PROVIDING US WITH YOUR NAME, EMAIL ADDRESS, AND A CLEAR STATEMENT SHOWING YOUR INTENT TO OPT OUT OF THE ARBITRATION AGREEMENT. HOWEVER, IF YOU AGREED TO A PREVIOUS VERSION OF THESE TERMS THAT ALLOWED YOU TO OPT OUT OF ARBITRATION, YOUR PREVIOUS CHOICE TO OPT-OUT OR NOT OPT-OUT REMAINS BINDING.
-
-*Exceptions to Agreement to Arbitrate.* Either you or New UI Buddy may assert claims, if they qualify, in small claims court in Ohio or any United States county where you live or work. Either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the Services, or intellectual property infringement (for example, trademark, trade secret, copyright, or patent rights) without first engaging in arbitration or the informal dispute-resolution process described above. If the agreement to arbitrate is found not to apply to you or your claim, you agree to the exclusive jurisdiction of the state and federal courts in Ohio to resolve your claim.
-
-*No Class Actions*. YOU AND New UI Buddy AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, OR REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL ACTION OR PROCEEDING. CLASS ARBITRATIONS, CLASS ACTIONS, PRIVATE ATTORNEY GENERAL ACTIONS, AND CONSOLIDATION WITH OTHER ARBITRATIONS ARE NOT ALLOWED. IF THIS SPECIFIC PARAGRAPH IS HELD UNENFORCEABLE, THEN THE ENTIRETY OF THIS MANDATORY ARBITRATION SECTION WILL BE DEEMED VOID.
 
 ##### **Controlling Law**
 
